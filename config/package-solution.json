@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "VacationRequest",
+    "id": "ed292cf8-3fce-4a6e-a82f-bd9f1c621137",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/VacationrRequest.sppkg"
+  }
+}

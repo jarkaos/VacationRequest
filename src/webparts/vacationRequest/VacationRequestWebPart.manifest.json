@@ -1,0 +1,22 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
+  "id": "60aecc58-5de5-4142-870a-1a495cac3969",
+  "alias": "VacationRequest",
+  "componentType": "WebPart",
+
+  "version": "*",
+  "manifestVersion": 2,
+
+  "requiresCustomScript": false,
+
+  "preconfiguredEntries": [{
+    "groupId": "5c03119e-3074-46fd-976b-c60198311f70",
+    "group": { "default": "Other" },
+    "title": { "default": "Vacation Request" },
+    "description": { "default": "VacationRequest description" },
+    "officeFabricIconFontName": "Calendar",
+    "properties": {
+      "description": "VacationRequest"
+    }
+  }]
+}

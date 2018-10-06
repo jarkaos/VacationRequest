@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.6.0",
+    "libraryName": "vacation-request",
+    "libraryId": "ed292cf8-3fce-4a6e-a82f-bd9f1c621137",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
